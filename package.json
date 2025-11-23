@@ -1,0 +1,19 @@
+{
+  "name": "skillwise-inventory-management",
+  "version": "1.0.0",
+  "description": "Full-stack Inventory Management System - Skillwise Assignment",
+  "scripts": {
+    "dev": "cd backend && npm run dev & cd ../frontend && npm start",
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": ["inventory", "management", "fullstack", "react", "express"],
+  "author": "",
+  "license": "ISC"
+}
+
+
+
+

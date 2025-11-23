@@ -1,0 +1,7 @@
+node_modules/
+inventory.db
+uploads/*.csv
+.env
+.DS_Store
+
+

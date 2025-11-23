@@ -1,0 +1,17 @@
+name,unit,category,brand,stock,status,image
+Laptop,piece,Electronics,Dell,15,active,https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=200
+Wireless Mouse,piece,Electronics,Logitech,50,active,https://images.unsplash.com/photo-1527814050087-3793815479db?w=200
+Keyboard,piece,Electronics,HP,30,active,https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=200
+Monitor,piece,Electronics,Samsung,20,active,https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=200
+Desk Chair,piece,Furniture,IKEA,25,active,https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=200
+Office Desk,piece,Furniture,Steelcase,10,active,https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=200
+Printer,piece,Office Equipment,Canon,8,active,https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=200
+Scanner,piece,Office Equipment,Epson,12,active,https://images.unsplash.com/photo-1605792665107-b4e8ee919ffa?w=200
+Notebooks,pack,Stationery,Moleskine,100,active,https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=200
+Pens,box,Stationery,Pilot,200,active,https://images.unsplash.com/photo-1561070791-2526d30994b5?w=200
+Webcam,piece,Electronics,Logitech,0,active,https://images.unsplash.com/photo-1587825140358-22d40a91c0c9?w=200
+Headphones,piece,Electronics,Sony,0,active,https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=200
+USB Flash Drive,piece,Electronics,SanDisk,0,active,https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=200
+Standing Desk,piece,Furniture,Herman Miller,0,active,https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=200
+File Cabinet,piece,Furniture,Steelcase,0,active,https://images.unsplash.com/photo-1586075010923-2dd4570fb338?w=200
+
